@@ -1,3 +1,5 @@
+package Teste;
+
 public class OlaMundo {
     String nome = "Curso de Sistemas de Informação!";
     double idade = 1.5;
